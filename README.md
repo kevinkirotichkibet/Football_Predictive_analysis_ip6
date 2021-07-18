@@ -1,6 +1,6 @@
 # Football_Predictive_analysis
 As a football analyst you have been tasked to create a model to predict the result of a game between team 1 and 2 based on who is home and who's away, and whether or not the game is friendly for Mchezopesa Ltd.
-**Task done:
+*Task done:
 1. Performed Exploratory Data Analysis
 2. Feature Engineering
 3. CHecked for multicollinearity
